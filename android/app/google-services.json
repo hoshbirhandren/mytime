@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565764851741",
+    "project_id": "mytime-a2832",
+    "storage_bucket": "mytime-a2832.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565764851741:android:acc878be74a36be09a9ef4",
+        "android_client_info": {
+          "package_name": "com.example.mytime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc-FU8W6C55CMohlsxHobWbjiCguDQbyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
