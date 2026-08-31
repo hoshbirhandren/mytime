@@ -26,6 +26,7 @@ class WellnessTrackerApp extends StatelessWidget {
     );
   }
 }
+// ============== USER PROVIDER  ==============
 
 // ============== USER PROVIDER (Simplified) ==============
 class UserProvider extends ChangeNotifier {
